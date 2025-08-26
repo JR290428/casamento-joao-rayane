@@ -1,0 +1,32 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin: 0;
+  background: #fafafa;
+  color: #333;
+}
+
+header {
+  background: #f7d9e3;
+  padding: 20px;
+}
+
+nav {
+  margin: 20px;
+}
+
+nav a {
+  margin: 0 10px;
+  text-decoration: none;
+  color: #c2185b;
+  font-weight: bold;
+}
+
+#countdown {
+  margin: 30px 0;
+}
+
+#timer {
+  font-size: 2em;
+  color: #c2185b;
+}
